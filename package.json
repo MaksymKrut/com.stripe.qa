@@ -1,0 +1,34 @@
+{
+  "name": "io.payworks.recruiting.automation.max",
+  "version": "1.0.0",
+  "description": "Stripe Public API Test Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org:payworks/io.payworks.recruiting.automation.max.git"
+  },
+  "keywords": [
+    "API",
+    "test",
+    "automation",
+    "restful",
+    "chai",
+    "cucumber",
+    "http",
+    "request"
+  ],
+  "author": "Maksym Krutskykh",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^1.3.1",
+    "faker": "*",
+    "chai": "*",
+    "chai-http": "*",
+    "chai-match-pattern": "*",
+    "request": "*"
+  },
+  "homepage": "https://bitbucket.org/payworks/io.payworks.recruiting.automation.max#README"
+}
